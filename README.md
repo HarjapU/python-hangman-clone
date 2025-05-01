@@ -12,3 +12,5 @@ players to get a letter for free if they are stuck. The program also tracks the
 statistics of the player throughout all of their games played, which saves data
 such as total games played, games won, games lost, etc into a text file within
 the folder.
+
+This project is licensed under the [MIT License](LICENSE).
