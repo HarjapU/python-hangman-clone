@@ -1,3 +1,4 @@
+# Hangman-Clone
 Author: Harjap Uppal
 
 This program is based on Hangman. Players have to guess what the hidden word is
